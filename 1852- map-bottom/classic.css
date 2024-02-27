@@ -1,0 +1,87 @@
+/* Title{Classic} Files{classic.gif} */
+
+body{
+color: #ffffff;
+font-family: Arial, Helvetica, Sans-Serif;
+background: #808080 url(classic.gif) repeat-y;
+margin-top: 0px;
+}
+
+body.contents{
+background: #808080;
+margin-left: 5px;
+}
+
+a:active{
+color: #ff0000;
+}
+
+a:link{
+color: #ffff00;
+}
+
+a:visited{
+color: #00ff00;
+}
+
+a:hover{
+color: #ff0000;
+}
+
+p.contents{
+font-size: x-small;
+font-weight: normal;
+text-align: left;
+}
+
+table.indent{
+margin-left: 60px;
+}
+
+td{
+color: #ffffff;
+font-family: Arial, Helvetica, Sans-Serif;
+}
+
+td.image{
+background-color: #ffffff;
+}
+
+td.thumb{
+font-size: x-small;
+font-weight: normal;
+text-align: center;
+}
+
+td.title{
+font-weight: bold;
+}
+
+td.info{
+font-weight: bold;
+}
+
+td.small{
+font-size: small;
+font-style: italic;
+}
+
+img.contents{
+border: thin solid #ffffff;
+}
+
+img.thumb{
+border: medium solid #ffffff;
+}
+
+img.main{
+border: thick solid #ffffff;
+}
+
+.thickborder{
+border: thick solid #ffffff;
+}
+
+.center{
+text-align: center;
+}
